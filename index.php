@@ -6,6 +6,7 @@
 </head>
 
 <body>
+<?php include(__DIR__ . '/../switcher.html')?>
 <h1><strong>TOONTOWNER'S STUFF</strong></h1>
 <p>&nbsp;</p>
 <p><a href="scenery.htm">New Downloads</a></p>
